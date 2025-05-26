@@ -1,0 +1,10 @@
+# Backend dependencies
+fastapi
+uvicorn
+firebase-admin
+
+# Common
+requests
+
+
+
